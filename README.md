@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Tech 🖥️
+
+<!-- html, css, javascript, react 뱃지 추가할 것 -->
 
 <!--
 **Hong-sk/Hong-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
