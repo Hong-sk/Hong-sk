@@ -1,7 +1,16 @@
-### Hi there 👋
-### Tech 🖥️
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:a82da8&height=300&section=header&text=Hong-sk&fontSize=90)
 
-<!-- html, css, javascript, react 뱃지 추가할 것 -->
+
+### Hi there 👋  I'm 성권.
+##### 제주더큰내일센터 2021.10 ~
+
+### Tech 🖥️
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-btn&logo=html5&logoColor=white)&nbsp;![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-btn&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-btn&logo=javascript&logoColor=black)&nbsp;
+
+<!-- ![react](https://img.shields.io/badge/#61DAFB?style=flat-square&logo=simpleiconsreact&logoColor=white)&nbsp;![SCSS]-->
+
+
+
 
 <!--
 **Hong-sk/Hong-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
