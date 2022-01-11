@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:a82da8&height=150&section=header&text=Hong-sk&fontSize=90&fontColor=#ff0000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:a82da8&height=200&section=header&text=Hong-sk&fontSize=90&fontColor=ffffff)
 
 
 ### Hi there 👋  I'm 성권.
